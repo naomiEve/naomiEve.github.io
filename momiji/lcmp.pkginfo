@@ -1,0 +1,6 @@
+package-name: [lcmp]
+package-author: [naomiEve]
+version: [1.0]
+dependencies: [none]
+fileurl: [https://github.com/naomiEve/lcmp/raw/master/lcmp.zip]
+compression: [zip]
