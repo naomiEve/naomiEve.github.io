@@ -1,0 +1,4 @@
+//[domain] = "ip"
+[goog.le] = "172.217.16.206"
+[loopback.reserved] = "127.0.0.1"
+[_badhorse] = "162.252.205.157"
